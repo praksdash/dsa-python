@@ -13,8 +13,5 @@ This repository contains Python implementations of **Data Structures and Algorit
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-dsa.git
-cd python-dsa
-
-# Run a script
-python arrays/two_sum.py
+https://github.com/praksdash/dsa-python.git
+cd dsa-python
